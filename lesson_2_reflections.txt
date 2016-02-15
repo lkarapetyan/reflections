@@ -4,6 +4,7 @@ Initializing the git repository allows to start
 tacking the files in the folder. It allows to start
 versioning the file changes.
 
+
 How is the staging area different from the working
 directory and the repository? What value do you think it
 offers?
@@ -11,3 +12,11 @@ The working directory is the directory where you actually
 work. The staging area is the part where you include the
 changes you want to commit. The Repository is the place
 when you keep your commits.
+
+
+How can you use the staging area to make sure you have one
+commit per logical change?
+After completing each logical part, add changes to the stage
+area and commit that changes only.
+
+
