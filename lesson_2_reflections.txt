@@ -28,3 +28,7 @@ have some changes which are not ready yet to be integrated
 to the master branch.
 
 
+How do the diagrams help you visualize the branch structure?
+To have a better understanding of branches structures, about
+the fetarues each branch has.
+
